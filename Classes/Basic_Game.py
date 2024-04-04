@@ -8,7 +8,7 @@ class Player:
         self.name = input("What is your name? ")
 
 #Create the player
-newPlayer = 1
+newPlayer = Player(name ="", score = 0)
 
 #Begin the creation of the game
 
