@@ -4,5 +4,5 @@ This repo is purely for the private use of practicing Python and aspects of the 
 
 Topics Covered:
 
-Object Oriented Programming in Python
+Basic Classes in Python
 
