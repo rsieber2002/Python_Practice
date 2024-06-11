@@ -8,14 +8,14 @@ operation = input("Please enter one of the following: +, -, /, or *")
 
 if operation == "+":
     result = var1 + var2
-else if operation == "-":
+elif operation == "-":
     result = var1 - var2
-else if operation == "/":
+elif operation == "/":
     result = var1 / var2
-else if operation == "*":
+elif operation == "*":
     result = var1 * var2
 else:
     print("You have entered an invalid operation!")
-    break
+    exit()
 
 print("The result is " + result)
