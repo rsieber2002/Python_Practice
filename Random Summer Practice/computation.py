@@ -4,7 +4,7 @@
 var1 = float(input("Please enter a number: "))
 var2 = float(input("Please enter a second number: "))
 
-operation = input("Please enter one of the following: +, -, /, or *")
+operation = input("Please enter one of the following: +, -, /, or *: ")
 
 if operation == "+":
     result = var1 + var2
