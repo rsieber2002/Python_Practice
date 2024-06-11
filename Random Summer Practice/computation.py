@@ -18,4 +18,4 @@ else:
     print("You have entered an invalid operation!")
     exit()
 
-print("The result is " + result)
+print("The result is " + str(result))
